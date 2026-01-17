@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Mostafa-Abbas1/Mostafa-Abbas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
-Currently working on small projects with esp32.
-
-- 🔭 currently working on small projects with esp32 
-- 🌱 Studying IT at the university
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafaabw2@gmail.com) 
